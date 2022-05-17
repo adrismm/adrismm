@@ -3,7 +3,7 @@
 ## Junior Web Developer
 `Hello there, welcome to my GitHub profile.
 Here you can follow my evolution as a programmer, my work and actual projects.
-My passions are web developement and roleplaying games.`
+My passions are web developement 💻 and roleplaying games 🎭 .`
 
 # Current Summary
 - 🔭 I’m currently working on ...
@@ -12,6 +12,6 @@ My passions are web developement and roleplaying games.`
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: adrsanmar98@gmail.com
-- ⚡ Fun fact: Rol, MTG, Sports
+- ⚡ Fun fact: I really like listening to music 🎧 and dancing 🕺
 
 ## My Tech Stack
