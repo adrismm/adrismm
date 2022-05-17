@@ -2,13 +2,13 @@
 
 <h3> Junior Web Developer </h3>
 
-`Hi there, welcome to my GitHub profile 👨‍💻.`
+`Hi there, welcome to my GitHub profile 👨‍💻`
 </br>
-`Here you can follow my evolution as a programmer, my work and actual projects 📤.`
+`Here you can follow my evolution as a programmer, my work and actual projects 📤`
 </br>
-`My passions are web developement 💻 and roleplaying games 🎭.`
+`My passions are web developement 💻 and roleplaying games 🎭`
 </br>
-`Fun fact, I really like listening to music 🎧 and dancing 🕺.`
+`Fun fact, I really like listening to music 🎧 and dancing 🕺`
 
 ### Current Summary
 - 🔭 I’m currently working on ...
