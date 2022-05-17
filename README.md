@@ -29,7 +29,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ![Java](https://img.shields.io/badge/-Java-ffa500?style=flat-square&logo=Java&logoColor=ffffff)
-![C#](https://img.shields.io/badge/-CSharp-800080?style=flat-square&logo=C#&logoColor=ffffff)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-6666FF?style=flat-square&logo=PHP&logoColor=ffffff)
 
 ![MySQL](https://img.shields.io/badge/-MySQL-B0C4DE?style=flat-square&logo=MySQL&logoColor=ffffff)
