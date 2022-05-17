@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, I'm Adrián! 👋
 
-<!--
-**adrismm/adrismm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Junior Web Developer
+`Hello there, welcome to my GitHub profile.
+Here you can follow my evolution as a programmer, my work and actual projects.
+My passions are web developement and roleplaying games.`
 
-Here are some ideas to get you started:
-
+# Current Summary
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: adrsanmar98@gmail.com
+- ⚡ Fun fact: Rol, MTG, Sports
+
+## My Tech Stack
