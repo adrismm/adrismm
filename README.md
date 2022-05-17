@@ -1,8 +1,8 @@
-# Hi there, I'm Adrián! 👋
+# Hello world, I'm Adrián! 👋
 
 <h3> Junior Web Developer </h3>
 
-`Hello there, welcome to my GitHub profile 👨‍💻.`
+`Hi there, welcome to my GitHub profile 👨‍💻.`
 </br>
 `Here you can follow my evolution as a programmer, my work and actual projects 📤.`
 </br>
