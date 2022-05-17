@@ -25,9 +25,6 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-6633cc?style=flat-square&logo=Bootstrap&logoColor=ffffff)
 ![Angular](https://img.shields.io/badge/-Angular-dc143c?style=flat-square&logo=Angular&logoColor=ffffff)
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
 ![Java](https://img.shields.io/badge/-Java-ffa500?style=flat-square&logo=Java&logoColor=ffffff)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-6666FF?style=flat-square&logo=PHP&logoColor=ffffff)
@@ -37,8 +34,12 @@
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white)
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ![Estadisticas](https://github-readme-stats.vercel.app/api?username=adrismm&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrismm&layout=compact&theme=dark)
