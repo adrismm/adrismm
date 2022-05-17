@@ -32,12 +32,11 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-32cd32?style=flat-square&logo=MongoDB&logoColor=ffffff)
 
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
-
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+![VS Code](https://img.shields.io/badge/-VSCode-AA1ED3?style=flat-square&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white)
 
 ## My GitHub's Stats
 
