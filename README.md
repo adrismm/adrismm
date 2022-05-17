@@ -1,7 +1,6 @@
 # Hi there, I'm Adrián! 👋
 
 <h3> Junior Web Developer </h3>
-<img src="https://i.ytimg.com/vi/kX0tq3qsY_U/maxresdefault.jpg">
 
 `Hello there, welcome to my GitHub profile 👨‍💻.`
 </br>
