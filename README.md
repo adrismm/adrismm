@@ -26,6 +26,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-6633cc?style=flat-square&logo=Bootstrap&logoColor=ffffff)
 ![Less](https://img.shields.io/badge/-Less-%231d365d?style=flat-square&logo=less&logoColor=ffffff)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ![Java](https://img.shields.io/badge/-Java-ffa500?style=flat-square&logo=Java&logoColor=ffffff)
 ![C#](https://img.shields.io/badge/-CSharp-800080?style=flat-square&logo=C#&logoColor=ffffff)
