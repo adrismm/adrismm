@@ -33,6 +33,7 @@
 
 ![MySQL](https://img.shields.io/badge/-MySQL-B0C4DE?style=flat-square&logo=MySQL&logoColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-32cd32?style=flat-square&logo=MongoDB&logoColor=ffffff)
+![NodeJS](https://img.shields.io/badge/-NodeJS-32cd23?style=flat-square&logo=NodeJS&logoColor=ffffff)
 
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 
