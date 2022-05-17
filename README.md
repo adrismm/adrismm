@@ -1,20 +1,20 @@
 # Hi there, I'm Adrián! 👋
 
-## Junior Web Developer
+<h3> Junior Web Developer </h3>
+</br>
 `Hello there, welcome to my GitHub profile 👨‍💻.`
 </br>
 `Here you can follow my evolution as a programmer, my work and actual projects 📤.`
 </br>
 `My passions are web developement 💻 and roleplaying games 🎭.`
+</br>
+`Fun fact, I really like listening to music 🎧 and dancing 🕺.`
 
 ### Current Summary
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: adrsanmar98@gmail.com / LinkedIn
-- ⚡ Fun fact: I really like listening to music 🎧 and dancing 🕺
 
 ## My Tech Stack
 
@@ -39,3 +39,10 @@
 
 ![Estadisticas](https://github-readme-stats.vercel.app/api?username=adrismm&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrismm&layout=compact&theme=dark)
+
+## Contact Me
+
+- ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white): adrsanmar98@gmail.com
+- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white): ...
+- ![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white): ...
+- ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white): ...
