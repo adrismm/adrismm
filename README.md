@@ -1,11 +1,11 @@
 ### Hi there, I'm Adrián! 👋
 
 ## Junior Web Developer
-`Hello there, welcome to my GitHub profile.`
+`Hello there, welcome to my GitHub profile 👨‍💻.`
 </br>
-`Here you can follow my evolution as a programmer, my work and actual projects.`
+`Here you can follow my evolution as a programmer, my work and actual projects 📤.`
 </br>
-`My passions are web developement 💻 and roleplaying games 🎭 .`
+`My passions are web developement 💻 and roleplaying games 🎭.`
 
 # Current Summary
 - 🔭 I’m currently working on ...
