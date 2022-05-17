@@ -42,6 +42,9 @@
 ## Contact Me
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white) adrsanmar98@gmail.com
+
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white) ...
+
 ![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=plastic&logo=Codewars&logoColor=white) ...
+
 ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white) ...
